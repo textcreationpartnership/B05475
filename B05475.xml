@@ -1,0 +1,237 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation against the importing of Irish victual, cattel, horses, and mares, &amp;c.</title>
+            <author>Scotland. Privy Council.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05475</idno>
+            <idno type="STC">Wing S1610C</idno>
+            <idno type="STC">ESTC R183346</idno>
+            <idno type="EEBO-CITATION">52612439</idno>
+            <idno type="OCLC">ocm 52612439</idno>
+            <idno type="VID">179596</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05475)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 179596)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2793:68)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation against the importing of Irish victual, cattel, horses, and mares, &amp;c.</title>
+                  <author>Scotland. Privy Council.</author>
+                  <author>Scotland. Sovereign (1649-1685 : Charles II)</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to his most sacred Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1680.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text; initial letter.</note>
+                  <note>Intentional blank spaces in text.</note>
+                  <note>Dated: Given under Our Signet, at Edinburgh, the eighteenth day of December, One thousand six hundred seventy and nine years, and of Our Reign, the thretty one year.</note>
+                  <note>Signed: Wil. Paterson, Cl. Sti. Concilii.</note>
+                  <note>Imperfect: stained with slight loss of text; cropped at head with partial loss of ornament.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Foreign trade regulation --  Scotland --  Early works to 1800.</term>
+               <term>Animal industry --  Law and legislation --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Commerce --  Ireland --  Early works to 1800.</term>
+               <term>Ireland --  Commerce --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:179596:1" rendition="simple:additions"/>
+            <head>A PROCLAMATION Againſt the Importing of Iriſh Victual, Cattel, Horſes, and Mares, &amp;c.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">C</seg>HARLES, by the grace of God, King of Great <hi>Britain, Frence</hi> and <hi>Ireland,</hi> Defender of the Faith:</signed>
+            </opener>
+            <opener>
+               <salute>To Macers, or Meſſengers at Arms, Our Sheriffs in that part, conjunctly and ſeverally, ſpecially conſtitute, Greeting,</salute>
+            </opener>
+            <p>Forasmuch, as We and O<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Eſtates of Parliament, by ſeveral Acts, Have, upon weighty Conſiderations, diſcharged the importation of <hi>Iriſh</hi> Victual and Cattel into this Kingdome under the pains and certifications therein contained. As alſo, The Lords of Our Privy Council, have emitted ſeveral Acts and Proclamations, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> purſuance of the ſaids Acts of Parliament; Notwithſtanding whereof, and of all the cates and endeavours taken, to prevent the importing of <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Victual and Cattel, the ſame is imported into this Kingdome: And conſidering, the beſt and fitteſt way for preventing thereof, may be to commiſſion ſome perſons of power and intereſt, in the ſeveral places of the Countrey, where the ſaid Victual and Cattel is ordinarily brought in and landed: We there<g ref="char:EOLhyphen"/>fore with advice of the Lords of O ur Privy Council, have thought fit to grant full Power, Anthority and Commiſſion, to <hi>Robert Campbel,</hi> brother to the Laird of <hi>A<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>kinglaſs, John Boyle</hi> of <hi>Kelburn,</hi> and <hi>James Dumbar</hi> of <hi>Mochrum,</hi> by themſelves, their Deputes, Servants, and ſuch as they ſhall think fit to appoint (for whom they wi<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> be anſwerable) To ſearch for, ſeize and apprehend, all <hi>Iriſh</hi> Victual, and Cattel, and ſalt Beef, made thereof, as ſhall be imported from <hi>Ireland</hi> into this Kingdome in the particular places after-ſpecified, (<hi>viz</hi>) The ſaid <hi>Robert Campbel,</hi> brother to the Laird of <hi>Ardkinglaſs,</hi> in all places from <hi>Lochlung,</hi> to the mule of <hi>Kintyre,</hi> and r<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> about the ſame, The ſaid <hi>John Boyle</hi> of <hi>Kelburne,</hi> in all places from the burgh of <hi>Glaſgow,</hi> to the march of <hi>Galloway,</hi> on the ſouth: and from <hi>Glaſgow</hi> to <hi>Lock<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> on the north, and the Iſles of <hi>Arran, Bute</hi> and <hi>Comray;</hi> and the ſaid <hi>James Dumbar</hi> of <hi>Mochrum,</hi> in all places from the March of <hi>Galloway,</hi> to the March of <hi>Nit<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> Which Victual ſo imported, the ſaids Commiſſioners and theſe intruſted by them, are thereby authorized and required, to cauſe Sta<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>, Sink, and Deſtroy, and to Bu<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Boats, Barkes, and Veſſells, in which the ſame ſhall be found to be imported. And for the more ready and effectual proſecution of that Our Commiſſion, We <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Granted full Power and Authority, to Our ſaids Commiſſioners, by themſelves, their Deputes, ſervants, and ſuch as they ſhall think fit to intruſt in the reſpective bounds foreſaids, To ſecure all Barks, or travelling Boats, whether <hi>Scots</hi> or <hi>Iriſh,</hi> untill the Skippers or owners ſhall find caution that they ſhall import no <hi>Iriſh</hi> Victual or C<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>tel hereafter. The ſaids Commiſſioners, and their foreſaids, are thereby alſo authorized, to ſearch all Boats, Barkes, or other Veſſels, wherein any <hi>Iriſh</hi> Victual or Cat<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> are ſuſpected to be; And iccaſe they find any of the ſaid prohibited goods, therein; To burne the ſaid Boats, Barkes, or Veſſells; and to Stave, Sink, and <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſtroy the Victual: And for the better diſcovery thereof, all Merchants, Skippers and Owners of Boats, or other Veſſells, travelling to and from the places fore<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> hereby ordered, before they break bulk, or liver any goods, To Advertiſe the ſaids Commiſſioners, or theſe intruſted by them, at one or other of the <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>(viz)</hi> At the point of <hi>Garvel,</hi> near <hi>Greenck,</hi> the towns of <hi>Larges, Irving, Turnberry, Dumbarton Rhotheſay</hi> and <hi>Broddock, Dinoon, Tarbet, Camp<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>,</hi> 
+               <gap reason="illegible: blotted" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Portpatrick, Glenluce,</hi> and <hi>Kirkcudburgh:</hi> (at which ports, Officers are eſtabliſhed to receive the ſaids advertiſements;) under the pain of confiſcation of <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ſels, and Goods, and being holden as confeſſed Importers, of <hi>Iriſh</hi> Victual; Provided that the Skippers or Owners, ſhall not upon ſuch occaſion, be obliged to <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er then one Tides water; If upon pregnant preſumptions, the ſaids Commiſſioners, or theſe entruſted by them, ſhall ſuſpect any perſons gulley of Importing <hi>Iriſh</hi> 
+               <gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>ual, or Cattell, They are thereby authorized, to convein any ſuch perſon or perſons, before the neareſt Magiſtrat, in Burgh or Landward: And to lead all man<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> probation againſt them for proving thereof; whereupon, the ſaids Magiſtrates are to give preſent and ready juſtices All Sheriffs, Stewarts, Baylles of Regalities, a<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Barronies, and all Heretors, are thereby ordered, to give their ſpeedy and ready aſſiſtance to the ſaids Commiſſioners, and theſe entruſted by them, when ever they <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be required, either for ſearching of Veſſels by night or day, making open and patent Doors, ſearching of Cellars, or other ſuſpect places, for <hi>Iriſh</hi> Victual or Cat<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which they are thereby Authorized to do: As alſo, the Officers of any Garriſon, are obliged to concurr and aſſiſt, with any party of Souldiers, as they ſhall be de<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> upon any extraordinary occaſion: The ſaids Commiſſioners, or theſe entruſted by them, are thereby impower'd, with conſent of the Magiſtrat of the place, to ſend <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> perſon to priſon, that ſhall be found guilty of contraveening the Laws, or contumaclous in refuſing to depone, (the Magiſtrates of the place, being alwayes free of the priſ<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> charges) In which caſe, the Magiſtrates are to ſecure the priſoners, and their Veſſells, and to be comptable for them: The ſaids Commiſſioners and their foreſaids are all Impowred to ſecure all Barkes, travelling Boats, or other Veſſels loaden with Meal, which ſhall happen to come within the ſaids bounds, untill a Certificat be produced from the Owners, that ſuch Barks, Boats or Veſſels are come from ſome port in <hi>Scotland,</hi> and that the Victual is of <hi>Scots</hi> growth, Upon the verity whereof, the Maſters <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Company are to give their Oathes in preſence of the ſaids Commiſſioners, or theſe entruſted by them, or the neareſt Magiſtrat. Likeas, We with advice foreſaid, <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Granted full Power, Authority and Commiſſion to the ſaids Commiſſioners &amp; theſe entruſted by them, to ſearch for and ſeize upon all ſuch <hi>Iriſh</hi> Victual, as they ſhall be in<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>med has been lately imported into this Kingdome, and to Stave, Sink and Deſtroy the ſame as aforeſaid: As alſo, to ſearch for, ſeize and apprehend all <hi>Iriſh</hi> Horſes and Ma<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> which ſhall happen to be imported into this Kingdome, wherever the ſame can be found within the foreſaids bounds, and to value and comprize the ſame: the one half there to be made forth-coming to the Commiſſioners of Our The ſaury for Our uſe, and the other half to the ſaids Commiſſioners or thoſe entruſted by them, conforme to a form Proclamation of Our Privy Council, in the moneth of <hi>April,</hi> 1668. And incaſe any perſon or perſons ſhall make open reſiſtance againſt the ſaids Commiſſioners, or theſe ent<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ed by them, in the execution of Our ſaid Commiſſion, and that thereupon there ſhall happen blood-ſhed, mutilation or ſlaughter to follow through the ſaid reſiſtance, it is declare that The ſaids Commiſſioners or theſe entruſted by, or giving aſſiſtance to them, ſhall never be called in queſtion or purſued therefore, civily or criminally in time comeing. An which Commiſſion, is declared to begin and take effect from and after the ſaid firſt day of <hi>January</hi> next, and to continue and endure untill the firſt day of <hi>Janu<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </hi> 1681. years; and furder, that Our ſaid Commiſſion ſhall no wayes free or liberat the Importers or Reſſetters of <hi>Iriſh</hi> Victual, Cattel, Horſes or Mares, upon wh<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ground the ſame ſhall be Imported, but that they ſhall continue ſtill lyable to the pains and penalties appointed by the ſaids Acts of Parliament and Council, as if O<gap reason="illegible: blotted" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> ſaid Commiſſion had never been granted, to be applyed, in the firſt place to the relief of the ſaids Commiſſioners, in ſo far as they ſhall pay the ſaid ſummes engaged for them in manner foreſaid. And to the effect, all Our Leidges and uthers concerned may have due and timeous notice of the ſame: We have thought fit, that theſe Our <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of Publication thereof ſhould be direct. OUR Will is herefore, And We charge you ſtraitly and Command, that incontinent, theſe Our Letters ſeen, ye paſſe to <gap reason="illegible: blotted" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Mereat Croſſes of of the head Burghs, and of the Shires of this Kingdom, and other places needful, and there, in Our Name and Authority, by open Proclamation, make Publi<g ref="char:EOLhyphen"/>cation of the Premiſſes, that all Our Leidges may have Notice thereof, and give Obedience thereto, as they will be anſwerable on their Higheſt peril.</p>
+            <closer>
+               <dateline>Given under Our Signet, at <hi>Edinburgh,</hi> 
+                  <date>the eighteenth day of <hi>December,</hi> One thouſand ſix hundred ſeventy and nine years, and of Our Reign, the thretty one year.</date>
+               </dateline>
+               <signed>
+                  <hi>Per Actum Dominorum Secreti Conſilii, WIL. PATERSON,</hi> Cl. Sti. Concilii.</signed>
+            </closer>
+            <closer>GOD ſave the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to His Moſt Sacred <hi>Majeſty</hi> Anno Dom. 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
